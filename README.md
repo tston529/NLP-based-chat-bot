@@ -1,6 +1,7 @@
 (THE FOLLOWING README WAS HANDED IN AS PART OF THE PROJECT)
 
-RUN WITH PYTHON 3
+RUN WITH PYTHON 3  
+Note: this was developed on a Linux machine, I have had memory issues (specifically, MemoryError, with a failure to allocate about 850 megs) running this on Windows which I am trying to figure out how to resolve.
 
 PACKAGES TO INSTALL
 ===================
