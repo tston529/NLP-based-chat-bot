@@ -1,19 +1,21 @@
+(THE FOLLOWING README WAS HANDED IN AS PART OF THE PROJECT)
+
 RUN WITH PYTHON 3
 
 PACKAGES TO INSTALL
 ===================
-textblob
+textblob  
 fuzzywuzzy
 pandas
 sklearn
 numpy
 tqdm
 
-you can easily do this by running my script :)
+you can easily do this by running my install packages script :)  
 probably needs root access, though. Maybe my calls to 
 pip need root access as well, not just the script.
 
-ALSO NEEDED (speeds up textblob creation)
+ALSO NEEDED (for textblob creation)
 =================
 python -m textblob.download_corpora
 
